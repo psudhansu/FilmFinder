@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { StyleSheet, View, Text, TextInput, Button, Image, ScrollView } from 'react-native';
 
-const OMDB_API_KEY = 'e8921bca';
+const OMDB_API_KEY = 'YOUR_OMDB_API_KEY';
 
 const Movie = () => {
   const [searchQuery, setSearchQuery] = useState('');
