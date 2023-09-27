@@ -18,4 +18,4 @@ To run FilmFinder on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FilmFinder.git
+   git clone [https://github.com/yourusername/FilmFinder.git](https://github.com/psudhansu/FilmFinder.git)https://github.com/psudhansu/FilmFinder.git
